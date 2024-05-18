@@ -1,0 +1,10 @@
+/mnist_handwritting/dataset_handwritting
+/mnist_handwritting/logs
+/mnist_handwritting/results
+
+
+/mnist_signs/dataset_signs
+/mnist_signs/dataset_signs_test
+/mnist_signs/logs
+/mnist_signs/results
+
