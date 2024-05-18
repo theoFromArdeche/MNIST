@@ -14,3 +14,5 @@ The purpose of this project is to explore and experiment with different IA model
 - cv2
 - Pandas
 - Matplotlib
+- gzip
+- idx2numpy
